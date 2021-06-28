@@ -3,8 +3,8 @@
     + Đồng bộ (Synchronous)
     + Bất đồng bộ (Asynchronous)
     + Promise: 
-    
-    + AJAX
+
+    + AJAX : Asynchronous Javascript and XML
     + API
     + HTTP Method
     + JSON
